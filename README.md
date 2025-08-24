@@ -1,3 +1,3 @@
 # amazon-clone
 
-first we create html and css code for this project.
+first we will create html and css file for this project.
